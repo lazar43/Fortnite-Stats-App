@@ -13,7 +13,7 @@ Fortnite Stats it's a simple app that can provide players stats by typing player
 
 ## API
 
-If you want to use this APIs you first need to register on this link https://thetrackernetwork.com/auth/register?domain=fortnitetracker.com.
+If you want to use this API you first need to register on this link https://thetrackernetwork.com/auth/register?domain=fortnitetracker.com.
 After registration you need to create application where you will be get the API Key,than you need to include it in fetching headers...
 
 ## Example
