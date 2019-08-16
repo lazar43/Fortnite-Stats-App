@@ -1,2 +1,0 @@
-data.epicUserHandle
-data.stats.p10.top1.value
