@@ -1,6 +1,6 @@
 # Fortnite Stats App
 
-Fortnite Stats it's a simple app that can provide players stats by typing player name and platform where his playing
+Fortnite Stats it's a simple app that provide players stats by typing player name and platform where his playing
 
 ![Screenshot (8)](https://user-images.githubusercontent.com/44750763/63176235-dc21f480-c045-11e9-81aa-cb3ec1f55ad4.png)
 
